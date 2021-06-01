@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 80px;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
+    color: #363958;
+}
+h2{
+    font-size: 55px;
+    font-family: 'Bebas Neue';
+    color: #363958;
+}
+p{
+    font-size: 26px;
+    font-weight: normal;
+    font-family: 'Roboto';
+    color: #3C3C3C;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+section{
+    overflow: hidden;
+}
+.top-area{
+
+}
+.menu {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+    text-align: right;
+    height: 100px;
+    margin-right: 50px;
+}
+.menu li {
+    display: inline;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.menu li a {
+    text-decoration: none;
+    color: #3C3C3C;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.text-color{
+    color: tomato;
+}
+.btn-link{
+    text-decoration: none;
+    background: linear-gradient(180deg, salmon, tomato);
+    padding: 15px 40px;
+    color: #fff;
+    font-size: 23px;
+    font-family: 'Roboto';
+    border-radius: 10px;
+}
+.about-area {
+    
+}
+.project-area{
+    margin-top: 150px;
+    background-color: #f8fafa;
+    padding: 100px;
+}
+.project-area h2{
+    text-align: center;
+    margin-bottom: 60px;
+    letter-spacing: 2px;
+}
+.project{
+    width: 26%;
+    float: left;
+    background: #fff;
+    margin: 37px;
+    box-shadow: 3px 3px 10px grey;
+    border-radius: 25px;
+    padding: 25px;
+}
+.project img{
+    width: 100%;
+}
+.project h3{
+    font-size: 32px;
+    font-family: 'Roboto';
+    margin-top: 20px;
+    color: #363958;
+}
+.project p{
+    font-size: 20px;
+}
+
+
