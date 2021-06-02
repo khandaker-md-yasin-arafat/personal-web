@@ -103,5 +103,65 @@ section{
 .project p{
     font-size: 20px;
 }
+.inquiry-area{
+    
+}
+.inquiry-bg{
+    background-image: url("img/bg.png");
+    height: 240px;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    position: relative;
+}
+.inquiry{
+    position: absolute;
+    left: 540px;
+    top: 87px;
+}
+.inquiry h2{
+    float: left;
+    margin-right: 370px;
+    color: #fff;
+    letter-spacing: 3px;
+}
+.inquiry a{
+    margin-top: 7px;
+    display: inline-block;
+}
+.footer-area{
+
+}
+.footer-text{
+    text-align: center;
+}
+.footer-text h2{
+    font-size: 26px;
+    font-weight: 500;
+    color: #3C3C3C;
+}
+.footer-text p{
+    font-weight: 700;
+    font-size: 45px;
+    color: #363958;
+    margin-bottom: 20px;
+}
+.social-link{
+    text-align: center;
+}
+.social-link img{
+    width: 45px;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+.social-link ul li{
+    display: inline;
+}
+.social-link ul li a{
+
+}
+
 
 
