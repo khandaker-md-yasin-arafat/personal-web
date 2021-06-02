@@ -4,7 +4,6 @@
 }
 body{
     width: 100%;
-    margin: 0 auto;
 }
 h1 {
     font-size: 80px;
@@ -29,27 +28,24 @@ p{
 section{
     overflow: hidden;
 }
-.top-area{
-
-}
-.menu {
+.menu{
     font-family: 'Roboto', sans-serif;
     margin-top: 50px;
     text-align: right;
     height: 100px;
     margin-right: 50px;
 }
-.menu li {
+.menu li{
     display: inline;
     padding: 10px 20px;
     font-size: 20px;
     font-weight: 500;
 }
-.menu li a {
+.menu li a{
     text-decoration: none;
     color: #3C3C3C;
 }
-.half-width {
+.half-width{
     width: 40%;
     float: left;
     margin: 5%;
@@ -68,9 +64,6 @@ section{
     font-size: 23px;
     font-family: 'Roboto';
     border-radius: 10px;
-}
-.about-area {
-    
 }
 .project-area{
     margin-top: 150px;
@@ -103,9 +96,6 @@ section{
 .project p{
     font-size: 20px;
 }
-.inquiry-area{
-    
-}
 .inquiry-bg{
     background-image: url("img/bg.png");
     height: 240px;
@@ -131,9 +121,6 @@ section{
     margin-top: 7px;
     display: inline-block;
 }
-.footer-area{
-
-}
 .footer-text{
     text-align: center;
 }
@@ -158,9 +145,6 @@ section{
 }
 .social-link ul li{
     display: inline;
-}
-.social-link ul li a{
-
 }
 
 
